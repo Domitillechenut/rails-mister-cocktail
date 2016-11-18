@@ -34,6 +34,7 @@ gem 'autoprefixer-rails'
 
 gem 'better_errors'
 gem 'binding_of_caller'
+gem 'faker'
 #
 ruby '2.3.1'
 
